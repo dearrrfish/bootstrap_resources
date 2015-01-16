@@ -1,0 +1,6 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = github:dearrrfish/dotfiles
+[submodule "beautifier/icons/Native-Looked-Compressed-File-Icons"]
+	path = beautifier/icons/Native-Looked-Compressed-File-Icons
+	url = github:xtai/Native-Looked-Compressed-File-Icons
